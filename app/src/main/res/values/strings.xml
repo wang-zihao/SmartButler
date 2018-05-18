@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SmartButler</string>
+    <string name="wechat">WeChat</string>
+    <string name="girl">GirlPic</string>
+    <string name="user">User</string>
+    <string name="setting">setting</string>
 </resources>
